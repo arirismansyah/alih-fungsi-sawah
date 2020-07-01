@@ -42,7 +42,7 @@ Untuk Environment dan IDE atau Code Editor Python kita dapat menggunakan Google 
 Pada project ini terdapat empat (4) direktori utama yang terkait penelitian sebagai berikut:
 
 
-* <i class="fas fa-folder-open"></i> [SAMPLE SATELLITE IMAGERY]()
+* [SAMPLE SATELLITE IMAGERY]()
   
   Direktori ini memuat beberapa contoh citra satelit yang digunakan dalam pembangunan model pada penelitian ini seperti:
 
@@ -68,12 +68,31 @@ Pada project ini terdapat empat (4) direktori utama yang terkait penelitian seba
 
 ## **Author**
 
-
+|                  |     |                                          |
+| ---------------- | --- | ---------------------------------------- |
+| Nama             | :   | Ari Rismansyah                           |
+| NIM              | :   | 16.9023                                  |
+| Program Studi    | :   | DIV Komputasi Statistik - _Data Science_ |
+| Dosen Pembimbing | :   | Siti Mariyah SST., M.T.                  |
 
 ## **Acknowledgments**
 
 <div align = "justify">
 
+Puji syukur ke hadirat Allah SWT karena atas rahmat dan pertolongan-Nya sehingga penelitian ini dapat diselesaikan. Terima kasih diucapkan untuk ibu Siti Mariyah SST., M.T. selaku dosen pembimbing, serta seluruh pihak dan teman-teman yang telah membantu & mendukung penelitian ini.
 
+</div>
+
+<br></br>
+<br></br>
+
+---
+<div align = "center">
+
+<img src = "ASSETS/profile.png"  width="100" height="100"></img>
+### **Ari Rismansyah (16.9023) | @HIKARI**
+Your Name – [@arirismansyah_](https://twitter.com/dbader_org) – 16.9023@stis.ac.id
+
+---
 
 </div>
