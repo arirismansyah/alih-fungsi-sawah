@@ -91,7 +91,10 @@ Puji syukur ke hadirat Allah SWT karena atas rahmat dan pertolongan-Nya sehingga
 
 <img src = "ASSETS/profile.png"  width="100" height="100"></img>
 ### **Ari Rismansyah (16.9023) | @HIKARI**
-Your Name – [@arirismansyah_](https://twitter.com/dbader_org) – 16.9023@stis.ac.id
+
+#### Politeknik Statistika STIS – DIV Komputasi Statistik - _Data Science_
+
+Copyright © 2020 - Ari Rismansyah – 16.9023@stis.ac.id
 
 ---
 
