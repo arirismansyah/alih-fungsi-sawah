@@ -112,7 +112,7 @@ Puji syukur ke hadirat Allah SWT karena atas rahmat dan pertolongan-Nya sehingga
 #### Politeknik Statistika STIS – DIV Komputasi Statistik - _Data Science_
 
 
-Copyright 2020 - Ari Rismansyah – 16.9023@stis.ac.id
+© Copyright 2020 - Ari Rismansyah – 16.9023@stis.ac.id
 
 ---
 
