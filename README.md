@@ -64,6 +64,7 @@ Pada project ini terdapat empat (4) direktori utama yang terkait penelitian seba
   
   Direktori ini memuat dashboard berbasis web yang dirancang untuk mendemonstrasikan implementasi kedua model yang telah dibangun dalam monitoring alih fungsi lahan sawah. Tampilan antar muka dari dashboard dapat di-akses di : [Dashboard Alih Fungsi Sawah](https://arirismansyah.github.io/) 
 
+Dokumentasi lengkap dari penelitian ini dapat diakses melalui halaman [Wiki]() dari project ini.
 </div>
 
 ## **Author**
@@ -95,7 +96,7 @@ Puji syukur ke hadirat Allah SWT karena atas rahmat dan pertolongan-Nya sehingga
 #### Politeknik Statistika STIS – DIV Komputasi Statistik - _Data Science_
 
 
-Copyright © 2020 - Ari Rismansyah – 16.9023@stis.ac.id
+Copyright 2020 - Ari Rismansyah – 16.9023@stis.ac.id
 
 ---
 
