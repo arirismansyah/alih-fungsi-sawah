@@ -69,12 +69,28 @@ Dokumentasi lengkap dari penelitian ini dapat diakses melalui halaman [Wiki](htt
 
 ## **Author**
 
-|                  |     |                                          |
-| ---------------- | --- | ---------------------------------------- |
-| Nama             | :   | Ari Rismansyah                           |
-| NIM              | :   | 16.9023                                  |
-| Program Studi    | :   | DIV Komputasi Statistik - _Data Science_ |
-| Dosen Pembimbing | :   | Siti Mariyah SST., M.T.                  |
+<table align="center" cellspacing="0" cellpadding="0">
+    <tr>
+        <td align="left">Nama</td>
+        <td align="center">:</td>
+        <td align="left">Ari Rismansyah</td>
+    </tr>
+    <tr>
+        <td align="left">NIM</td>
+        <td align="center">:</td>
+        <td align="left">16.9023</td>
+    </tr>
+    <tr>
+        <td align="left">Program Studi</td>
+        <td align="center">:</td>
+        <td align="left">DIV Komputasi Statistik - Data Science</td>
+    </tr>
+    <tr>
+        <td align="left">Dosen Pembimbing</td>
+        <td align="center">:</td>
+        <td align="left">Siti Mariyah SST., M.T.</td>
+    </tr>
+</table>
 
 ## **Acknowledgments**
 
