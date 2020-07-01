@@ -42,25 +42,25 @@ Untuk Environment dan IDE atau Code Editor Python kita dapat menggunakan Google 
 Pada project ini terdapat empat (4) direktori utama yang terkait penelitian sebagai berikut:
 
 
-* [SAMPLE SATELLITE IMAGERY]()
+* [SAMPLE SATELLITE IMAGERY](/SAMPLE SATELLITE IMAGERY/)
   
   Direktori ini memuat beberapa contoh citra satelit yang digunakan dalam pembangunan model pada penelitian ini seperti:
 
-  * [LANDSAT 8]() - [ Citra satelit Landsat 8 Surface Reflectance ]
-  * [SENTINEL 2]() - [ Citra satelit Copernicus Sentinel 2 ]
-  * [DATASET TRAINING MODEL SEGMENTASI (UNET)]() - [ Training Dataset dalam pembangunan model deteksi sawah ]
-  * [DATASET TRAINING MODEL KLASIFIKASI TUTUPAN LAHAN (CNN)]() - [ Training Dataset dalam pembangunan model klasifikasi tutupan lahan ]
+  * [LANDSAT 8](/SAMPLE SATELLITE IMAGERY/LANDSAT 8/) - [ Citra satelit Landsat 8 Surface Reflectance ]
+  * [SENTINEL 2](/SAMPLE SATELLITE IMAGERY/SENTINEL 2/) - [ Citra satelit Copernicus Sentinel 2 ]
+  * [DATASET TRAINING MODEL SEGMENTASI (UNET)](/SAMPLE SATELLITE IMAGERY/DATASET TRAINING MODEL SEGMENTASI [UNET]/) - [ Training Dataset dalam pembangunan model deteksi sawah ]
+  * [DATASET TRAINING MODEL KLASIFIKASI TUTUPAN LAHAN (CNN)](/SAMPLE SATELLITE IMAGERY/DATASET TRAINING MODEL KLASIFIKASI TUTUPAN LAHAN [CNN]/) - [ Training Dataset dalam pembangunan model klasifikasi tutupan lahan ]
   <br>
   
-* [NOTEBOOK MODELLING]()
+* [NOTEBOOK MODELLING](/NOTEBOOK MODELLING/)
   
   Direktori ini memuat script Python yang digunakan untuk pengumpulan data dan pembangunan model dalam penelitian ini.
 
-* [SERIALIZED MODEL]()
+* [SERIALIZED MODEL](/SERIALIZED MODEL/)
   
   Direktori ini memuat model deteksi sawah dan model klasifikasi tutupan lahan yang telah diserialisasi dalam format file ( h5 ).
 
-* [DASHBOARD]()
+* [DASHBOARD](/DASHBOARD/)
   
   Direktori ini memuat dashboard berbasis web yang dirancang untuk mendemonstrasikan implementasi kedua model yang telah dibangun dalam monitoring alih fungsi lahan sawah. Tampilan antar muka dari dashboard dapat di-akses di : [Dashboard Alih Fungsi Sawah](https://arirismansyah.github.io/) 
 
@@ -93,6 +93,7 @@ Puji syukur ke hadirat Allah SWT karena atas rahmat dan pertolongan-Nya sehingga
 ### **Ari Rismansyah (16.9023) | @HIKARI**
 
 #### Politeknik Statistika STIS – DIV Komputasi Statistik - _Data Science_
+
 
 Copyright © 2020 - Ari Rismansyah – 16.9023@stis.ac.id
 
