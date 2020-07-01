@@ -64,7 +64,7 @@ Pada project ini terdapat empat (4) direktori utama yang terkait penelitian seba
   
   Direktori ini memuat dashboard berbasis web yang dirancang untuk mendemonstrasikan implementasi kedua model yang telah dibangun dalam monitoring alih fungsi lahan sawah. Tampilan antar muka dari dashboard dapat di-akses di : [Dashboard Alih Fungsi Sawah](https://arirismansyah.github.io/) 
 
-Dokumentasi lengkap dari penelitian ini dapat diakses melalui halaman [Wiki]() dari project ini.
+Dokumentasi lengkap dari penelitian ini dapat diakses melalui halaman [Wiki](https://git.stis.ac.id/HIKARI/deteksi-dan-klasifikasi-alih-fungsi-lahan-sawah-berdasarkan-citra-satelit-dengan-implementasi-deep-learning/-/wikis) dari project ini.
 </div>
 
 ## **Author**
