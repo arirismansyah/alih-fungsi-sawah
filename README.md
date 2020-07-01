@@ -16,7 +16,7 @@ Penelitian ini dilakukan untuk mengembangkan model _deep learning_ yang mampu me
 
 Model untuk mndeteksi lahan sawah dikembangkan dengan arsitektur **_U-net Neural Network_** sedangkan model untk klasifikasi tutupan lahan dikembangkan dengan arsitektur **_Convolutional Neural Network_**. Kedua model ini dikembangkan dengan bahasa pemrograman [Python](https://www.python.org/).
 
-Model dengan arsitektur **_U-net Neural Network_** dapat mendeteksi lahan sawah dengan performa yang baik, dengan model tersebut kita dapat mengidentifikasi alih fungsi lahan sawah di suatu daerah pada peiode tertentu. Kemudian sawah yang mengalami alih fungsi dapan diklasifikasikan ke dalam jenis tutupanlahan lainnya dengan model **_Convolutional Neural Network_**. Kedua Model ini dapat diimplementasikan untuk melakukan monitoring terhadap alih fungsi lahan sawah.
+Model dengan arsitektur **_U-net Neural Network_** dapat mendeteksi lahan sawah dengan performa yang baik, dengan model tersebut kita dapat mengidentifikasi alih fungsi lahan sawah di suatu daerah pada peiode tertentu. Kemudian sawah yang mengalami alih fungsi dapan diklasifikasikan ke dalam jenis tutupanlahan lainnya dengan model **_Convolutional Neural Network_**. Kedua Model ini dapat diimplementasikan untuk melakukan monitoring terhadap alih fungsi lahan sawah. Tampilan antar muka dari dashboard dapat di-akses di : [Dashboard Alih Fungsi Sawah](https://arirismansyah.github.io/)
 
 </div>
 
@@ -41,7 +41,8 @@ Untuk Environment dan IDE atau Code Editor Python kita dapat menggunakan Google 
 <div align = "justify">
 Pada project ini terdapat empat (4) direktori utama yang terkait penelitian sebagai berikut:
 
-* [SAMPLE SATELLITE IMAGERY]()
+
+* <i class="fas fa-folder-open"></i> [SAMPLE SATELLITE IMAGERY]()
   
   Direktori ini memuat beberapa contoh citra satelit yang digunakan dalam pembangunan model pada penelitian ini seperti:
 
@@ -61,7 +62,7 @@ Pada project ini terdapat empat (4) direktori utama yang terkait penelitian seba
 
 * [DASHBOARD]()
   
-  Direktori ini memuat dashboard berbasis web yang dirancang untuk mendemonstrasikan implementasi kedua model yang telah dibangun dalam monitoring alih fungsi lahan sawah.
+  Direktori ini memuat dashboard berbasis web yang dirancang untuk mendemonstrasikan implementasi kedua model yang telah dibangun dalam monitoring alih fungsi lahan sawah. Tampilan antar muka dari dashboard dapat di-akses di : [Dashboard Alih Fungsi Sawah](https://arirismansyah.github.io/) 
 
 </div>
 
@@ -70,3 +71,9 @@ Pada project ini terdapat empat (4) direktori utama yang terkait penelitian seba
 
 
 ## **Acknowledgments**
+
+<div align = "justify">
+
+
+
+</div>
